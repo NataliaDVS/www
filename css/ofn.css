@@ -92,7 +92,7 @@ img {
 	position: relative;
 	vertical-align: middle;
 	margin-left: auto;
-    margin-right: auto;
+        margin-right: auto;
 	border: 0px solid #ff0000;
 }
 
@@ -136,6 +136,15 @@ img {
 	-webkit-transform-origin: 50% 100%;
 	-moz-transform-origin: 50% 100%;
 	-o-transform-origin: 50% 100%;
+}
+
+#teaser_vimeo {
+  width: 100%;
+}
+
+#teaser_vimeo .wrapper {
+  width: 960px;
+  margin: 20px auto 0 auto;
 }
 
 #footer {
@@ -218,7 +227,7 @@ img {
 }
 
 
-#div_watch_video {http://localhost/ofn/images/ofn_bg.jpg
+#div_watch_video {/*http://localhost/ofn/images/ofn_bg.jpg*/
 	display: block;
 	margin-left: auto;
     margin-right: auto;
