@@ -679,3 +679,13 @@ img {
 	color: #999999;
 	margin-bottom: 30px;
 }
+
+.page_copy_dark {
+	font-family: 'AvenirMed_IE', 'AvenirMed';
+	font-size: 14px;
+	font-weight: normal;
+	text-align: left;
+	color: #666;
+	margin-bottom: 30px;
+
+}
