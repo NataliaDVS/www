@@ -671,6 +671,15 @@ img {
 	margin-bottom: 30px;
 }
 
+.page_copy_large {
+	font-family: 'AvenirMed_IE', 'AvenirMed';
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+	color: #999999;
+	margin-bottom: 30px;
+}
+
 .page_copy_bold {
 	font-family: 'AvenirBla_IE', 'AvenirBla';
 	font-size: 16px;
