@@ -613,7 +613,7 @@ img {
 }
 
 .page_heading {
-	font-size: 48px;
+	font-size: 52px;
 	text-align: left;
 	color: #666666;
 	margin-bottom: 15px;
@@ -656,7 +656,7 @@ img {
 
 .page_subheading_users {
 	font-family: 'AvenirBla_IE', 'AvenirBla';
-	font-size: 24px;
+	font-size: 36px;
 	color: #ffffff;
 	margin-bottom: 30px;
 }
@@ -685,7 +685,7 @@ img {
 	font-size: 18px;
 	font-weight: normal;
 	text-align: left;
-	color: #999999;
+	color: #666;
 	margin-bottom: 30px;
 }
 
